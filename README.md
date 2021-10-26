@@ -1,7 +1,5 @@
 ### Hi there, I'm Guilherme Augusto de Oliveira 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on @Linx as Software analyst development
 - 🌱 I’m currently learning NextJS, React Native and SSR
 - 👯 I’m looking to collaborate on Open Source Projects 
