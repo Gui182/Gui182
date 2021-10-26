@@ -7,7 +7,7 @@
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I have a collection of miniature carts
 
-![perfil github vercel app](https://github-readme-stats.vercel.app/api?username=GuiLaTT&show_icons=true&theme=panda)
+![perfil github vercel app](https://github-readme-stats.vercel.app/api?username=GuiLaTT&show_icons=true&theme=github_dark)
 
 
 
