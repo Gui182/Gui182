@@ -1,9 +1,9 @@
 ### Hi there, I'm Guilherme Augusto de Oliveira 👋
 
-- 🔭 I’m currently working on @Linx as Software Analyst Development
-- 🌱 I’m currently learning NextJS, React Native and SSR
+- 🔭 I’m currently working on @Linx as Software Developer
+- 🌱 I’m currently learning DDD, Clean Architecture and SOLID
 - 👯 I’m looking to collaborate on Open Source Projects 
-- 💬 Ask me about [Git, React, JavaScript, Functional Programing, NodeJS, Typescript]
+- 💬 Ask me about [Git, Java, SpringBoot, Javascript, NodeJS, Typescript]
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: I have a collection of miniature carts
 
